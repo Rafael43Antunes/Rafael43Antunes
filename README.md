@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" width="40" alt="Premiere Pro"/>
-  <img src="https://img.icons8.com/color/48/cisco.png" width="40" alt="Cisco"/>
+  <img src="https://www.citypng.com/public/uploads/preview/hd-cisco-logo-transparent-background-701751694708614msmscwyuoe.png" width="40" alt="Cisco"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968779.png" width="40" alt="GNS3"/>
 
   
