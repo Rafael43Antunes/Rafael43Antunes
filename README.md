@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" width="40" alt="Premiere Pro"/>
   <img src="https://www.citypng.com/public/uploads/preview/hd-cisco-logo-transparent-background-701751694708614msmscwyuoe.png" width="40" alt="Cisco"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGNS3_logo.png&psig=AOvVaw2gjt5wCQS0Uxz6tK18M-Lj&ust=1752534565845000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDKzpX6uo4DFQAAAAAdAAAAABAL" width="40" alt="GNS3"/>
 
   
 </div>
